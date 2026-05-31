@@ -1,3 +1,7 @@
+RESEARCH-1
+
+
+
 1. About This Paper
 This paper was written by 14 authors from German academic and government institutions — including universities, the Federal Statistical Office of Germany, and medical research centers. It was published in a peer-reviewed journal and argues a clear central thesis: statistics is not just compatible with AI — it is a core component of it. The paper pushes back against a common misconception that AI and statistics are separate or competing fields.
 This source is directly relevant to Topic 5 (AI Statistics and Industry Reports) because it provides the academic and methodological foundation for understanding what AI statistics mean — how they are collected, what their limitations are, and what can go wrong when statistical thinking is absent from AI development.
@@ -44,3 +48,33 @@ Most industry AI reports do not do this. A finding stated as "84% of developers 
 The paper concludes with a call to extend statistical and AI-related education at all levels. As AI becomes embedded in society and industry, the ability to critically evaluate AI claims — what the authors call AI literacy — becomes essential not just for researchers, but for professionals who use or build AI systems. Software engineers fall directly into this category.
 4.Summary
 Friedrich et al. (2022) make a compelling academic case that statistical thinking is not optional in AI — it is foundational to understanding what AI systems can and cannot do, and what AI statistics can and cannot tell us. For a software engineering student studying AI industry reports, this paper is essential reading: it provides the critical tools to look beyond headline numbers and ask the right questions about how those numbers were produced.
+
+
+RESEARCH-2
+
+About This Source
+This paper is based on a 3-hour webinar held on March 17, 2024, organized by leading statisticians from Harvard, Columbia, UCLA, and other top universities. It attracted approximately 1,000 online attendees and was later published in the Harvard Data Science Review. The authors — 20 prominent statisticians — discussed the future of statistics in the age of AI.
+Key Points
+The webinar was divided into three panels, each addressing a different challenge:
+Panel I — Challenges and Opportunities
+The panel discussed concerns about statistics losing talent and funding to AI and computer science. The authors argue this is a mistake — statistical rigor, uncertainty quantification, and interdisciplinary collaboration are exactly what AI development needs most. AI's rapid rise should be seen as an opportunity for statisticians, not a threat.
+Panel II — Publication and Research Quality
+This panel focused on the need to prioritize data quality and reproducibility in AI research. Many AI results published today are difficult to reproduce or verify. The authors argue the statistical community must push for higher standards in how AI research is reported and evaluated.
+Panel III — Education and the Next Generation
+The third panel called for modernizing statistical education by integrating AI and deep learning into curricula, while keeping core statistical principles — uncertainty, reproducibility, and causal reasoning — at the center. The concern is that new students are learning AI tools without the foundational thinking skills to use them responsibly.
+Relevance to Topic 5
+This source complements the industry statistics in the main research by providing the academic community's perspective. While industry reports measure how much AI is being used, Lin et al. ask how well it is being used — and whether the people building and deploying AI have the statistical literacy to interpret their own results correctly.
+
+RESEARCH-3
+
+About This Paper
+This is one of the most rigorous studies on AI and developer productivity to date. Unlike industry surveys, it uses a Randomized Controlled Trial (RCT) — the gold standard of scientific research. Conducted between February and June 2025, it involved 16 experienced open-source developers completing 246 real tasks in mature projects they had worked on for an average of 5 years. Each task was randomly assigned to either allow or disallow AI tools. When allowed, developers mainly used Cursor Pro and Claude 3.5/3.7 Sonnet.
+Key Findings
+Developers predicted AI would make them 24% faster before the study
+After completing it, they estimated AI made them 20% faster
+The actual measured result: AI made them 19% slower
+Economics experts predicted 39% faster; ML experts predicted 38% faster
+All predictions were wrong — in the same direction
+The authors investigated 20 possible explanations for the slowdown, including project complexity, quality standards, and AI experience level. The slowdown was consistent across their analyses, making it unlikely to be caused by experimental design flaws.
+Why This Matters for Topic 5
+This paper directly challenges the productivity statistics reported in industry surveys. Most industry figures — like GitHub's "55% faster" claim — come from self-reported surveys or controlled lab tasks, not real-world projects. Becker et al. show that in a real-world setting, with experienced developers working on complex, mature codebases, the productivity gain disappears and becomes a slowdown. This does not mean AI tools are useless, but it does mean that headline productivity statistics must be read carefully and compared against the conditions under which they were measure.
