@@ -14,3 +14,7 @@ Becker, J., Rush, N., Barnes, E., & Rein, D. (2025). Measuring the impact of ear
 RESEARCH-4
 
 Friedrich, S., Antes, G., Behr, S., Binder, H., Brannath, W., Dumpert, F., Ickstadt, K., Kestler, H. A., Lederer, J., Leitgöb, H., Tschiersch, M., Unberath, M., Vach, W., & Friede, T. (2022). Is there a role for statistics in artificial intelligence? Advances in Data Analysis and Classification, 16(4), 823–846. https://doi.org/10.1007/s11634-021-00455-6
+
+RESEARCH-5
+
+Lin, X., Cai, T., Donoho, D., Fu, H., Ke, T., Jin, J., Meng, X.-L., Qu, A., Shi, C., Song, P., Sun, Q., Wang, W., Wu, H., Yu, B., Zhang, H., Zheng, T., Zhou, H., Zhou, J., Zhu, H., & Zhu, J. (2025). Statistics and AI: A fireside conversation. Harvard Data Science Review, 7(2). https://doi.org/10.1162/99608f92.c066fe9c

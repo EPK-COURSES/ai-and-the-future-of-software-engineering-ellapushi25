@@ -91,3 +91,10 @@ Three real failure examples from the paper:
 Google Flu Trends — overestimated flu rates because search data was not representative
 Microsoft Tay — learned offensive behavior from uncontrolled Twitter data
 Apple Heart Study — 400,000 participants but wrong age group for the research question
+
+RESEARCH-5
+
+This paper is essential reading for anyone analyzing AI industry statistics because it addresses the credibility infrastructure behind those statistics. When Stack Overflow reports that "84% of developers use AI tools" or McKinsey reports that "only 5.5% of organizations capture real financial returns from AI," the trustworthiness of those figures depends on exactly the processes this paper advocates: transparent methodology, reproducible data collection, and honest uncertainty communication.
+Lin et al. argue that the statistical community must position itself as the quality-control layer for AI — evaluating not just whether AI systems perform well in demos, but whether the evidence for their performance is statistically sound. For software engineers reading industry reports, this translates into a simple but important habit: always ask how the data was collected, who was surveyed, and what the margin of error is.
+Summary
+Lin et al. (2025) represent the collective voice of leading academic statisticians responding to AI's rapid rise. Their message is clear: statistics and AI are not competitors — they are partners, and AI without statistical rigor produces systems that fail in real-world conditions. The paper provides both a diagnosis of the current problem and a practical roadmap for fixing it, centered on education, publication standards, and interdisciplinary collaboration.
