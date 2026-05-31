@@ -78,3 +78,16 @@ All predictions were wrong — in the same direction
 The authors investigated 20 possible explanations for the slowdown, including project complexity, quality standards, and AI experience level. The slowdown was consistent across their analyses, making it unlikely to be caused by experimental design flaws.
 Why This Matters for Topic 5
 This paper directly challenges the productivity statistics reported in industry surveys. Most industry figures — like GitHub's "55% faster" claim — come from self-reported surveys or controlled lab tasks, not real-world projects. Becker et al. show that in a real-world setting, with experienced developers working on complex, mature codebases, the productivity gain disappears and becomes a slowdown. This does not mean AI tools are useless, but it does mean that headline productivity statistics must be read carefully and compared against the conditions under which they were measure.
+ 
+RESEARCH-4
+
+What the paper argues: Statistics is not separate from AI — it is a core part of it. AI systems fail when statistical principles are ignored at the design stage.
+Key areas covered:
+Study design — AI projects often skip proper sampling and use secondary data not collected for their purpose. Large sample sizes do not guarantee good results.
+Data quality — "Garbage in, garbage out." Training data must be relevant, complete, and unbiased. Amazon's recruiting AI failed because it was trained on historically biased hiring data.
+Causality vs. association — AI finds correlations, not causes. The claim "AI makes developers 55% faster" is an association, not a proven causal effect.
+Uncertainty — AI outputs rarely include confidence levels. Statistical methods like confidence intervals are needed to communicate how reliable a result actually is.
+Three real failure examples from the paper:
+Google Flu Trends — overestimated flu rates because search data was not representative
+Microsoft Tay — learned offensive behavior from uncontrolled Twitter data
+Apple Heart Study — 400,000 participants but wrong age group for the research question

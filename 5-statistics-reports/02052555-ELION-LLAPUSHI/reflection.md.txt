@@ -24,3 +24,13 @@ This paper was the most surprising source I read for this assignment. The findin
 What I found most interesting is not the slowdown itself, but the prediction gap. Developers, economists, and ML experts all predicted significant speed improvements. All of them were wrong in the same direction. This tells me that the belief that AI boosts productivity is so strong that even experts cannot predict accurately when it does not. It raises a question I had not considered before: how much of the productivity statistics we read in industry reports is shaped by expectation rather than measurement?
 The paper also clarified something important for me about methodology. Most statistics I collected for Topic 5 — Stack Overflow surveys, JetBrains reports, GitHub data — are observational. Developers self-report how much faster they feel. Becker et al. actually measured task completion time. The gap between what developers felt and what the data showed was significant. That gap is worth remembering every time I read a headline productivity figure.
 For my own future as a software engineer, this paper is a reminder that critical evaluation of tools matters as much as adopting them.
+
+REFLECTION-4
+
+What surprised me most was that many core machine learning methods — like random forests — were invented by statisticians, not computer scientists. I always thought statistics and AI were separate fields, but this paper showed they share the same roots.
+What concerns me is that AI systems are being deployed without proper statistical thinking behind them. The Google Flu Trends and Microsoft Tay failures showed that even large-scale AI projects can fail badly when study design and data quality are ignored.
+What opportunities I see are for engineers who understand both AI tools and statistical reasoning. That combination is rare and valuable.
+Skills that will remain important are critical thinking, data quality evaluation, and the ability to distinguish correlation from causation — things AI cannot do on its own.
+How software engineers should adapt by learning enough statistics to question AI outputs, not just use them.
+Did my opinion change? Yes. I used to think statistics was old-fashioned compared to AI. Now I see it as the quality-control layer that makes AI trustworthy.
+How I will personally adapt by making sure I understand why a model produces a result, not just how to run it.

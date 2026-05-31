@@ -10,3 +10,7 @@ RESEARCH-3
 
 
 Becker, J., Rush, N., Barnes, E., & Rein, D. (2025). Measuring the impact of early-2025 AI on experienced open-source developer productivity. arXiv. https://doi.org/10.48550/arXiv.2507.09089
+
+RESEARCH-4
+
+Friedrich, S., Antes, G., Behr, S., Binder, H., Brannath, W., Dumpert, F., Ickstadt, K., Kestler, H. A., Lederer, J., Leitgöb, H., Tschiersch, M., Unberath, M., Vach, W., & Friede, T. (2022). Is there a role for statistics in artificial intelligence? Advances in Data Analysis and Classification, 16(4), 823–846. https://doi.org/10.1007/s11634-021-00455-6
