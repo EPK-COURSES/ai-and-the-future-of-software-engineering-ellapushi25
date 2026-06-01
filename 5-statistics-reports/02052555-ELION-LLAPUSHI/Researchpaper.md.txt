@@ -117,3 +117,29 @@ AI patents grew from 3,833 (2010) to 122,511 (2023) — a 29.6% jump in one year
 Costs Are Falling Fast
 Inference cost dropped from $20.00 to $0.07 per million tokens in 18 months — a 280× reduction
 Hardware performance grows 43% annually, costs drop 30% per year
+
+RESEARCH-7
+
+AI Research Is Exploding
+Total AI publications in computer science nearly tripled between 2013 and 2023, rising from approximately 102,000 to over 242,000
+AI now accounts for 41.8% of all computer science publications — up from 21.6% in 2013
+Machine learning is the dominant research topic, appearing in 75.7% of AI publications, followed by computer vision (47.2%) and natural language processing (17.1%)
+Generative AI publications saw a sharp increase in 2023, reflecting the explosion of interest following ChatGPT
+Who Is Leading — and Who Is Catching Up
+China leads in total AI publications (23.2% of global total) and citations (22.6%)
+The United States leads in highly influential research — holding the most top-100 cited publications for three consecutive years
+In 2024, US institutions produced 40 notable AI models, far ahead of China (15) and Europe (3 combined)
+Industry now produces nearly 90% of notable AI models in 2024, up from 60% in 2023 — a dramatic shift showing that companies, not universities, are driving cutting-edge AI development
+Company Investments: The Scale Is Unprecedented
+Training compute for notable AI models doubles approximately every five months
+Training dataset sizes for large language models double every eight months
+The cost to train AI models is growing — GPT-3 (2020) cost emissions of 588 tons of CO₂, GPT-4 (2023) generated 5,184 tons, and Llama 3.1 (2024) generated 8,930 tons — showing the enormous resource commitment companies are making
+Despite rising training costs, inference costs are falling dramatically: the cost of querying a GPT-3.5-equivalent model dropped from $20.00 per million tokens in November 2022 to just $0.07 per million tokens by October 2024 — a more than 280-fold reduction in 18 months
+Hardware and Future Predictions
+AI hardware performance has grown 43% annually, doubling every 1.9 years
+Hardware costs are dropping 30% per year while energy efficiency improves 40% annually
+AI patents grew from 3,833 in 2010 to 122,511 in 2023 — a 29.6% increase in just the last year
+China holds 69.7% of all global AI patents, signaling long-term strategic investment
+
+
+

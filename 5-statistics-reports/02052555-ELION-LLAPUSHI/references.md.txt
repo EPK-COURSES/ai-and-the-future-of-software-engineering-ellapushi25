@@ -22,3 +22,10 @@ Lin, X., Cai, T., Donoho, D., Fu, H., Ke, T., Jin, J., Meng, X.-L., Qu, A., Shi,
 RESEARCH-6
 
 Maslej, N., et al. (2025). Artificial Intelligence Index Report 2025. Stanford University Human-Centered AI. https://hai.stanford.edu/ai-index/2025-ai-index-report
+
+RESEARCH-7
+
+Giray, G., Demirörs, O., Kalinowski, M., & Mendez, D. (2025). An empirical study of generative AI adoption in software engineering. arXiv. https://arxiv.org/abs/2512.23327
+
+
+
