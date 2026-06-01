@@ -18,3 +18,7 @@ Friedrich, S., Antes, G., Behr, S., Binder, H., Brannath, W., Dumpert, F., Ickst
 RESEARCH-5
 
 Lin, X., Cai, T., Donoho, D., Fu, H., Ke, T., Jin, J., Meng, X.-L., Qu, A., Shi, C., Song, P., Sun, Q., Wang, W., Wu, H., Yu, B., Zhang, H., Zheng, T., Zhou, H., Zhou, J., Zhu, H., & Zhu, J. (2025). Statistics and AI: A fireside conversation. Harvard Data Science Review, 7(2). https://doi.org/10.1162/99608f92.c066fe9c
+
+RESEARCH-6
+
+Maslej, N., et al. (2025). Artificial Intelligence Index Report 2025. Stanford University Human-Centered AI. https://hai.stanford.edu/ai-index/2025-ai-index-report

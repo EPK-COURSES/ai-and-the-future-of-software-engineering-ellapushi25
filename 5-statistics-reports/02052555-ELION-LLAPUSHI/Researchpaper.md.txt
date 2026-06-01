@@ -98,3 +98,22 @@ This paper is essential reading for anyone analyzing AI industry statistics beca
 Lin et al. argue that the statistical community must position itself as the quality-control layer for AI — evaluating not just whether AI systems perform well in demos, but whether the evidence for their performance is statistically sound. For software engineers reading industry reports, this translates into a simple but important habit: always ask how the data was collected, who was surveyed, and what the margin of error is.
 Summary
 Lin et al. (2025) represent the collective voice of leading academic statisticians responding to AI's rapid rise. Their message is clear: statistics and AI are not competitors — they are partners, and AI without statistical rigor produces systems that fail in real-world conditions. The paper provides both a diagnosis of the current problem and a practical roadmap for fixing it, centered on education, publication standards, and interdisciplinary collaboration.
+
+RESEARCH-6
+
+Key Findings
+AI Research Growth
+AI publications in computer science nearly tripled from 102,000 (2013) to over 242,000 (2023)
+AI now makes up 41.8% of all CS publications, up from 21.6% in 2013
+Generative AI publications saw a sharp rise in 2023
+Who Is Leading
+China leads in total publications (23.2%) and citations (22.6%)
+USA leads in high-impact research — most top-100 cited papers for three straight years
+Industry now produces 90% of notable AI models in 2024, up from 60% in 2023
+Company Investments
+Training compute doubles every 5 months; dataset sizes every 8 months
+Carbon cost of training: GPT-3 = 588 tons CO₂, GPT-4 = 5,184 tons, Llama 3.1 = 8,930 tons
+AI patents grew from 3,833 (2010) to 122,511 (2023) — a 29.6% jump in one year alone
+Costs Are Falling Fast
+Inference cost dropped from $20.00 to $0.07 per million tokens in 18 months — a 280× reduction
+Hardware performance grows 43% annually, costs drop 30% per year
