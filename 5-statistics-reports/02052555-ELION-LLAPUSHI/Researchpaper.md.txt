@@ -141,5 +141,31 @@ Hardware costs are dropping 30% per year while energy efficiency improves 40% an
 AI patents grew from 3,833 in 2010 to 122,511 in 2023 — a 29.6% increase in just the last year
 China holds 69.7% of all global AI patents, signaling long-term strategic investment
 
+RESEARCH-8
 
+About This Paper
+This study was conducted by researchers from Eindhoven University of Technology, Izmir Institute of Technology, Pontifical Catholic University of Rio de Janeiro, and Blekinge Institute of Technology. It surveyed 223 software professionals between May and November 2025 to understand how GenAI tools are actually being used in practice — not just whether they are being used.
+Key Findings
+Adoption Rates
+Results show wide adoption of GenAI tools, deeply integrated into daily software engineering work
+52% of respondents use GenAI tools "very frequently" — closely matching Stack Overflow's finding of 51% daily usage
+ChatGPT is the most used tool (62%), followed by GitHub Copilot (20%)
+Adoption is more accelerated than Capgemini's estimate of 46%, suggesting industry surveys may be underreporting real usage
+Where Developers Use AI Most
+Highest usage in: implementation, verification and validation, personal assistance, and maintenance tasks
+Lower reported benefits in early SDLC phases like planning and requirements analysis
+Reported Benefits
+Reduction in cycle time
+Quality improvements
+Enhanced support for knowledge work
+Productivity gains
+Challenges
+Incorrect or unreliable outputs remain the top concern
+Objective measurement of productivity and quality is limited in practice
+Significant challenges persist around trust and verification of AI outputs
+Organizational Impact
+Two-thirds of organizations have formal or informal governance guidelines for AI use
+Long-term impacts on SE roles, job market, skills, and compensation are anticipated but still uncertain
+Why It Matters for Topic 5
+This paper directly covers AI adoption rates and developer opinions with real survey data from 223 practitioners. It is one of the few studies that goes beyond adoption numbers to ask how and where AI is used — making it more useful for analysis than simple percentage statistics.
 

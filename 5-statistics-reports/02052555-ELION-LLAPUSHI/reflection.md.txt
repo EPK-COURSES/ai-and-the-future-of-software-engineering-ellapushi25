@@ -62,5 +62,11 @@ What opportunities I see are in governance. The fact that two-thirds of organiza
 Which skills will remain important are verification and critical evaluation. The top reported challenge — incorrect or unreliable outputs — means that checking AI work carefully is not optional. That is a human skill AI cannot replace.
 How I will personally adapt by focusing on the areas where AI is weakest: requirements analysis, system design, and careful verification of AI-generated outputs. Those are where my judgment adds the most value.
 
+REFLECTION-8
 
+What surprised me most was that developers use AI least in the early phases of software development — planning and requirements analysis — which are arguably the most important. AI is strongest where tasks are repetitive and well-defined, like writing boilerplate code. But the decisions that shape a project happen before any code is written. That gap tells me human judgment is still most critical where it matters most.
+What concerns me is the challenge around measuring productivity. The paper notes that objective measurement of productivity and quality remains limited in practice. If we cannot accurately measure whether AI is actually helping, organizations risk adopting tools based on perception rather than evidence — and making poor investment decisions as a result.
+What opportunities I see are in governance. The fact that two-thirds of organizations already have guidelines for AI use shows the field is maturing. Engineers who understand both the tools and the governance frameworks around them will be well-positioned.
+Which skills will remain important are verification and critical evaluation. The top reported challenge — incorrect or unreliable outputs — means that checking AI work carefully is not optional. That is a human skill AI cannot replace.
+How I will personally adapt by focusing on the areas where AI is weakest: requirements analysis, system design, and careful verification of AI-generated outputs. Those are where my judgment adds the most value.
 

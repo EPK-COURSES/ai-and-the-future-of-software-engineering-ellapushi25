@@ -27,5 +27,7 @@ RESEARCH-7
 
 Giray, G., Demirörs, O., Kalinowski, M., & Mendez, D. (2025). An empirical study of generative AI adoption in software engineering. arXiv. https://arxiv.org/abs/2512.23327
 
+RESEARCH-8
 
+Felder, L., et al. (2026). Adoption of generative artificial intelligence in the German software engineering industry: An empirical study. arXiv. https://arxiv.org/abs/2601.16700
 
