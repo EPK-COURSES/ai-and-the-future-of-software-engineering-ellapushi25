@@ -169,3 +169,27 @@ Long-term impacts on SE roles, job market, skills, and compensation are anticipa
 Why It Matters for Topic 5
 This paper directly covers AI adoption rates and developer opinions with real survey data from 223 practitioners. It is one of the few studies that goes beyond adoption numbers to ask how and where AI is used — making it more useful for analysis than simple percentage statistics.
 
+RESEARCH-9
+
+About This Paper
+Conducted by researchers from the University of Michigan, University of Tennessee, and University of Alabama, this study surveyed 868 scientists who program — a unique group that is neither professional software engineers nor non-technical users. Their findings reveal important patterns about how experience level affects AI adoption and whether perceived productivity actually reflects real productivity gains.
+Key Findings
+Adoption Rates
+Adoption is highest among students and less experienced programmers
+Adoption varies significantly across scientific fields
+Scientists overwhelmingly prefer ChatGPT over developer-specific tools like GitHub Copilot
+The Perceived Productivity Problem
+The strongest predictor of perceived productivity is how many lines of generated code a user accepts at once
+This means users measure productivity by code generation volume — not by whether the code is correct, maintainable, or actually useful
+Both inexperience and limited use of development practices (testing, code review, version control) are associated with higher perceived productivity
+In other words: the less you know about good software practices, the more productive AI makes you feel
+The Experience Paradox
+Less experienced users feel most productive with AI — but are also most at risk of over-reliance
+More experienced developers apply more scrutiny to AI outputs and therefore report lower perceived gains
+This irrors findings from Felder et al. (2026) and Becker et al. (2025) — experienced developers are the most skeptical
+Risk: Over-Reliance
+The paper explicitly warns that users who gauge productivity by code generation rather than validation are developing a dangerous habit
+Accepting large blocks of AI-generated code without understanding them introduces bugs, security risks, and technical debt
+Why It Matters for Topic 5
+This paper adds a critical dimension to developer opinions statistics: it shows that high perceived productivity scores in surveys may be misleading. If the least experienced users report the highest gains, industry surveys that average across all experience levels will overstate the real productivity impact of AI. This is a direct methodological challenge to how most industry reports — Stack Overflow, JetBrains, GitHub — measure and report AI productivity data.
+

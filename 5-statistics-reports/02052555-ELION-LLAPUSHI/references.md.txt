@@ -31,3 +31,6 @@ RESEARCH-8
 
 Felder, L., et al. (2026). Adoption of generative artificial intelligence in the German software engineering industry: An empirical study. arXiv. https://arxiv.org/abs/2601.16700
 
+RESEARCH-9
+
+O'Brien, G., et al. (2026). A survey of generative AI adoption and perceived productivity among scientists who program. arXiv.
