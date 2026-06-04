@@ -34,3 +34,7 @@ Felder, L., et al. (2026). Adoption of generative artificial intelligence in the
 RESEARCH-9
 
 O'Brien, G., et al. (2026). A survey of generative AI adoption and perceived productivity among scientists who program. arXiv.
+
+RESEARCH-10
+
+Anonymous. (2026). Developers in the age of AI: Adoption, policy, and diffusion of AI software engineering tools. arXiv. https://arxiv.org/abs/2601.21305
