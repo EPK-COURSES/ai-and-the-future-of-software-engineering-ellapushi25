@@ -38,3 +38,7 @@ O'Brien, G., et al. (2026). A survey of generative AI adoption and perceived pro
 RESEARCH-10
 
 Anonymous. (2026). Developers in the age of AI: Adoption, policy, and diffusion of AI software engineering tools. arXiv. https://arxiv.org/abs/2601.21305
+
+RESEARCH-11
+
+de Souza Santos, R., Santos, I., Baldassarre, M. T., Magalhaes, C., & Wessel, M. (2025). An investigation on how AI-generated responses affect software engineering surveys. arXiv. https://arxiv.org/abs/2512.17455

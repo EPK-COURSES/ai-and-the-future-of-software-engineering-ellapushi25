@@ -218,3 +218,27 @@ Instead, policy functions as a marker of maturity — it formalizes adoption aft
 Companies that mandate AI use without organic enthusiasm first are unlikely to see the same gains
 Why It Matters for Topic 5
 This paper covers AI adoption rates, developer opinions, and future predictions in a unique way — by explaining the mechanism of adoption, not just the numbers. The Testing Gap finding is particularly important: industry statistics on AI adoption typically measure coding tool usage, not testing tool usage. This means adoption figures overstate how comprehensively AI is actually integrated into the full development workflow
+
+RESEARCH-11
+
+About This Paper
+Conducted by researchers from the University of Calgary, University of Hawaiʻi, University of Bari, UFRPE Brazil, and Radboud University, this study examines a problem no other paper in this collection addresses: AI is now contaminating the very surveys used to measure AI adoption. The researchers collected data from two survey deployments conducted in 2025 through the Prolific platform and analyzed responses for signs of AI-generated fabrication.
+Key Findings
+The Core Problem
+Out of all responses analyzed, 49 survey responses showed clear structural patterns of AI authorship
+These fake responses contained: repetitive sequencing, uniform phrasing, and superficial personalization
+They mimicked coherent human reasoning while concealing fabricated content
+This directly undermines the construct validity, internal validity, and external validity of survey research
+What AI-Fabricated Responses Look Like
+They sound confident and well-structured
+They use professional language that resembles genuine developer experience
+They are difficult to detect without systematic pattern analysis
+Standard survey quality checks do not catch them
+Why This Matters for Statistics
+Most AI adoption and productivity statistics come from surveys — Stack Overflow (49,000+ respondents), JetBrains, GitHub
+If a significant portion of respondents use AI to answer questions about AI, the results are circular and unreliable
+The paper identifies data authenticity as an emerging dimension of validity that survey research must address
+The Broader Implication
+Reliable evidence now requires active detection of AI-generated responses
+Simply increasing sample size does not help — more responses mean more potential fabrications
+The statistical community must develop new verification methods before survey data can be fully trusted
